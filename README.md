@@ -1,0 +1,1 @@
+Python skripta je pisana u sklopu projektnog zadatka iz predmeta 'Sistemi i servisi mobilnih telekomunikacija' i ima za cilj prikupljanje podataka o korisnicima povezanim na eksperimentalnu baznu stanicu.
